@@ -21,6 +21,11 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  var userQuestion = '';
+  var userAnswer = '';
+
+  final myTextStyle = TextStyle(fontSize: 30, color: Colors.deepPurple[900]);
+
   final List<String> buttons = [
     'C',
     'DEL',
@@ -51,7 +56,30 @@ class _HomePageState extends State<HomePage> {
       body: Column(
         children: <Widget>[
           Expanded(
-            child: Container(),
+            child: Container(
+              child: Column(
+                mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                children: <Widget>[
+                  SizedBox(
+                    height: 50,
+                  ),
+                  Container(
+                      padding: const EdgeInsets.all(20),
+                      alignment: Alignment.centerLeft,
+                      child: Text(
+                        userQuestion,
+                        style: const TextStyle(fontSize: 20),
+                      )),
+                  Container(
+                      padding: const EdgeInsets.all(20),
+                      alignment: Alignment.centerRight,
+                      child: Text(
+                        userAnswer,
+                        style: const TextStyle(fontSize: 20),
+                      ))
+                ],
+              ),
+            ),
           ),
           Expanded(
             flex: 2,
