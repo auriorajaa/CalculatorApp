@@ -1,16 +1,14 @@
-# calculator_app
+Repository Name: Calculator App
 
-A new Flutter project.
+Description:
+Welcome to the Calculator App, a simple and stylish Flutter project designed for learning and sharing the joy of coding. This user-friendly app offers basic arithmetic operations, making it perfect for anyone looking to sharpen their Flutter skills or just wanting a handy calculator on their mobile device.
 
-## Getting Started
+![Screenshot_1697896754](https://github.com/auriorajaa/CalculatorApp/assets/108510729/475ba141-76e2-459b-b379-1fb3646be3fb)
 
-This project is a starting point for a Flutter application.
+Features:
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Basic Arithmetic: Perform addition, subtraction, multiplication, and division effortlessly.
+Sleek Design: A minimalist and appealing user interface that's easy on the eyes.
+Flutter Learning: Ideal for those new to Flutter, this project can be a stepping stone to more complex apps.
+Open Source: Feel free to fork, contribute, or modify the code to suit your needs.
+Whether you're a Flutter enthusiast eager to learn or someone who simply needs a reliable calculator on the go, the Calculator App has you covered. Have fun coding, and don't forget to star the repository if you find it useful! 🚀
