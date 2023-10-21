@@ -3,7 +3,7 @@ Repository Name: Calculator App
 Description:
 Welcome to the Calculator App, a simple and stylish Flutter project designed for learning and sharing the joy of coding. This user-friendly app offers basic arithmetic operations, making it perfect for anyone looking to sharpen their Flutter skills or just wanting a handy calculator on their mobile device.
 
-![Screenshot_1697896754](https://github.com/auriorajaa/CalculatorApp/assets/108510729/475ba141-76e2-459b-b379-1fb3646be3fb)
+<img src="https://github.com/auriorajaa/CalculatorApp/assets/108510729/475ba141-76e2-459b-b379-1fb3646be3fb" width="200">
 
 Features:
 
